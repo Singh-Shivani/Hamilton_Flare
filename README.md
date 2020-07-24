@@ -65,3 +65,7 @@
   <p >
     <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
 </p>
+
+
+### Check this and show your love on Rive! 🥳
+[Hamilton](https://rive.app/a/Shivani/files/flare/hamilton/preview)
