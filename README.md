@@ -30,16 +30,20 @@
      flare_flutter: ^2.0.5
 ```
   
+  
   2. Import it
   ```sh
   import 'package:flare_flutter/flare_actor.dart';
 ``` 
 
+  
   3. Make a new folder name ```assets``` in the  ```project-level``` directory.
+  
   
   
   4. Add your flare file(.flr) into that assets folder.
 
+  
   
   5. Update your ``` pubspec.yaml``` file
   
@@ -48,6 +52,13 @@
      assets:
      - assets/Hamilton.flr
      ```
+  
+  6. follow the code written for ``` flare_actor``` in ``` lib/main.dart``` file.
+  
+  
+  7. And it's done! You have your realtime graphic animation working in your flutter app.
+
+
   
     
 
