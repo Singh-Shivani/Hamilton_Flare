@@ -59,14 +59,11 @@
   7. And it's done!👏 You have your realtime graphic animation working in your flutter app.🥳
 
 
-### How it looks! 🥳
-    
+### How it looks! 🥳     
+<img src="https://user-images.githubusercontent.com/47295558/88427631-f1380380-ce10-11ea-8f7e-a98ae1eeebdb.png" style="width:100px"> 
 
-  <p >
-      <img src="https://user-images.githubusercontent.com/47295558/88427631-f1380380-ce10-11ea-8f7e-a98ae1eeebdb.png" style="width:100px"> 
-</p>
 
-### Check this animation and show your love on Rive! 😍
+### Click below to check this animation on Rive and show your love😍
 <a href="https://rive.app/a/Shivani/files/flare/hamilton/preview">
   <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
   </a>
