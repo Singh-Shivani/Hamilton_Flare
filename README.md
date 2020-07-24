@@ -68,4 +68,4 @@
   <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
   </a>
 
-##### Shape your imagination on Rive!💯
+##### Give life to your design on Rive!💯
