@@ -22,6 +22,7 @@
   - The primary goal of Flare is to allow designers to work directly with assets that run in their final product, eliminating the need to redo that work in code.🦾
 
 ### Installation ⚙️
+##### A Tip💡 - Always follow the legit sources for avoiding any issues related to package updates. Refer [pub.dev](https://pub.dev/) for [flare_flutter](https://pub.dev/packages/flare_flutter/).
 
  To run this animation in flutter you'll require ```flare_flutter```
    1. Add this line into your ``` pubspec.yaml```
@@ -55,7 +56,7 @@
   6. Follow the code written for ``` flare_actor``` in ``` lib/main.dart``` file.
   
   
-  7. And it's done! You have your realtime graphic animation working in your flutter app.
+  7. And it's done!👏 You have your realtime graphic animation working in your flutter app.🥳
 
 
   
