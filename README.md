@@ -59,9 +59,9 @@
   7. And it's done!👏 You have your realtime graphic animation working in your flutter app.🥳
 
 
-  
+### How it looks! 🥳
     
 
   <p align="center">
-    <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:700"> 
+    <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
 </p>
