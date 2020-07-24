@@ -62,6 +62,6 @@
 ### How it looks! 🥳
     
 
-  <p align="center">
+  <p >
     <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
 </p>
