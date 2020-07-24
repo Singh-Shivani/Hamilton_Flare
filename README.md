@@ -42,9 +42,11 @@
 
   
   5. Update your ``` pubspec.yaml``` file
+  
      Add this line into your pubspec.yaml file(don't forget to change this file name as your file name, make sure your indentation is proper.)
      ```sh
-     assets/animation_file_name.flr 
+     assets:
+     - assets/Hamilton.flr
      ```
   
     
