@@ -24,14 +24,14 @@
 ### Installation ⚙️
 
  To run this animation in flutter you'll require ```flare_flutter```
-   1. Depend on it
+   1. Add this line into your ``` pubspec.yaml```
    ```sh
    dependencies:
      flare_flutter: ^2.0.5
 ```
 
   
-  2. Import it
+  2. Import it in your  ``` lib/main.dart```
   ```sh
   import 'package:flare_flutter/flare_actor.dart';
 ``` 
@@ -40,19 +40,19 @@
   
 
   
-  4. Add your flare file(.flr) into that assets folder.
+  4. Export your flare file from Rive i.e  ``` .flr``` file, add this file into that  ``` assets``` folder.
 
  
   
-  5. Update your ``` pubspec.yaml``` file
+  5. Update your ``` pubspec.yaml``` 
   
-     Add this line into your pubspec.yaml file(don't forget to change this file name as your file name, make sure your indentation is proper.)
+     Add this line into your pubspec.yaml file(don't forget to change the file name as your flare file, make sure your indentation is proper.)
      ```sh
      assets:
      - assets/Hamilton.flr
      ```
    
-  6. follow the code written for ``` flare_actor``` in ``` lib/main.dart``` file.
+  6. Follow the code written for ``` flare_actor``` in ``` lib/main.dart``` file.
   
   
   7. And it's done! You have your realtime graphic animation working in your flutter app.
