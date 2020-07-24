@@ -63,9 +63,10 @@
     
 
   <p >
-    <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
+      <img src="https://user-images.githubusercontent.com/47295558/88427631-f1380380-ce10-11ea-8f7e-a98ae1eeebdb.png" style="width:300"> 
 </p>
 
-
-### Check this and show your love on Rive! 🥳
-[Hamilton](https://rive.app/a/Shivani/files/flare/hamilton/preview)😍
+### Check this animation and show your love on Rive! 🥳
+<a href="https://rive.app/a/Shivani/files/flare/hamilton/preview">
+  <img src="images/ezgif.com-crop.gif" alt="Logo" style="width:100%"> 
+  </a>
