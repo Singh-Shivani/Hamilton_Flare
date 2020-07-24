@@ -33,7 +33,24 @@
   2. Import it
   ```sh
   import 'package:flare_flutter/flare_actor.dart';
-```
+``` 
+
+  3. Make a folder name ```assets``` in the  ```project-level``` directory
+      Add your flare file into that assest folder havin path as
+    ```sh
+    assets/animation_file_name.fir
+  ```
+  
+  4. Add ```assets``` in the  ```project-level``` directory
+      Add your flare file(.flr) into that assets folder.
+    ```sh
+    assets/animation_file_name.flr 
+  ```
+   4. Update your ```pubspec.yaml``` file
+      Add this line into your pubspec.yaml file(don't forget to change this file name as your file name, make sure your indentation is proper.)
+    ```sh
+    assets/animation_file_name.flr 
+  ```
   
     
 
