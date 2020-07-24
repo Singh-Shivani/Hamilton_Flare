@@ -39,11 +39,9 @@
   
   
   4. Add your flare file(.flr) into that assets folder.
-    ```sh
-    assets/animation_file_name.flr 
-    
-  ```
-  4. Update your ```pubspec.yaml``` file
+
+  
+  5. Update your ``` pubspec.yaml``` file
      Add this line into your pubspec.yaml file(don't forget to change this file name as your file name, make sure your indentation is proper.)
      ```sh
      assets/animation_file_name.flr 
