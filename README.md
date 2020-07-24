@@ -7,7 +7,7 @@
 
 <p align ="center"> 
 <i>A simple graphic animation using <a href="https://rive.app/">Rive 😍</a>  in <a href="https://flutter.dev/">Flutter 💕</a> </i>
-<br>
+<br><br>
 
 ### What's Rive? 🤔
 
@@ -16,16 +16,13 @@
   - An Open Source Platform🖤 
   
   
-  
 ### What about Flare? 👀
 
   - Flare offers powerful realtime vector design and animation for app and game designers alike.🤓
   - The primary goal of Flare is to allow designers to work directly with assets that run in their final product, eliminating the need to redo that work in code.🦾
 
+### Installation ⚙️
 
-
-  
-### Installation ⚙️<br>
  To run this animation in flutter you'll require ```flare_flutter```
    1. Depend on it
    ```sh
@@ -33,24 +30,19 @@
      flare_flutter: ^2.0.5
 ```
 
-
   
   2. Import it
   ```sh
   import 'package:flare_flutter/flare_actor.dart';
 ``` 
-
-
   
   3. Make a new folder name ```assets``` in the  ```project-level``` directory.
   
-  
-  
+
   
   4. Add your flare file(.flr) into that assets folder.
 
-  
-  
+ 
   
   5. Update your ``` pubspec.yaml``` file
   
@@ -59,10 +51,8 @@
      assets:
      - assets/Hamilton.flr
      ```
-  
-  
+   
   6. follow the code written for ``` flare_actor``` in ``` lib/main.dart``` file.
-  
   
   
   7. And it's done! You have your realtime graphic animation working in your flutter app.
