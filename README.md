@@ -21,7 +21,7 @@
   - Flare offers powerful realtime vector design and animation for app and game designers alike.🤓
   - The primary goal of Flare is to allow designers to work directly with assets that run in their final product, eliminating the need to redo that work in code.🦾
 
-### Installation ⚙️
+### Intergrate in Flutter ⚙️
 ##### A Tip💡 - Always follow the legit sources for avoiding any issues related to package updates. Refer [pub.dev](https://pub.dev/) for [flare_flutter](https://pub.dev/packages/flare_flutter/).
 
  To run this animation in flutter you'll require ```flare_flutter```
