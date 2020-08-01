@@ -56,7 +56,7 @@
   6. Follow the code written for ``` flare_actor``` in ``` lib/main.dart``` file.
   
   
-  7. And it's done!👏 You have your realtime graphic animation working in your flutter app🥳. Also it is open to fork so that you can use it as your base animation💯.
+  7. And it's done!👏 You have your realtime graphic animation working in your flutter app🥳. Also it is open to fork on RIVE so that you can use it as your starting point for the animation💯.
 
 
 ### How it looks! 🥳     
